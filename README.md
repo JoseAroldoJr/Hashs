@@ -1,0 +1,2 @@
+# Hashs
+Funcoes Hash
